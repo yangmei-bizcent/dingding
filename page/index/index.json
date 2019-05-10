@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "modal": "mini-antui/es/modal/index",
+    "gooditem": "../../components/goodItem/gooditem",
+    "list": "mini-antui/es/list/index",
+    "list-item": "mini-antui/es/list/list-item/index"
+  }
+}

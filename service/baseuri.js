@@ -1,0 +1,1 @@
+export const API_ROOT_URL = 'http://10.23.12.192:8084'; // 请求基地址 

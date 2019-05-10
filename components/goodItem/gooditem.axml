@@ -1,0 +1,3 @@
+<view class="good-item">
+  {{ good.name }}
+</view>

@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "page/index/index"
+  ],
+  "window": {
+    "defaultTitle": "联通订餐",
+    "backgroundColor": "#F5F5F9"
+  }
+}

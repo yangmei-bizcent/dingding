@@ -1,0 +1,14 @@
+{
+  "name": "dingding",
+  "version": "1.0.0",
+  "description": "钉钉小程序",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ym",
+  "license": "ISC",
+  "dependencies": {
+    "mini-antui": "^0.4.25"
+  }
+}
